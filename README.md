@@ -15,3 +15,9 @@ Your task is to build a GAN that generates 7,000 to 10,000 Monet-style images.
 ### Getting Started 
 Details on the dataset can be found [here](https://www.kaggle.com/c/gan-getting-started/data) and an overview of the evaluation process can be found [here](https://www.kaggle.com/c/gan-getting-started/overview/evaluation).
 
+### Requirements 
+* Python3 
+* Matplotlib
+* Tensorflow
+* Kaggle Datasets
+
